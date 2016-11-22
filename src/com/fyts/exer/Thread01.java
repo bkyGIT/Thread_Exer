@@ -3,6 +3,8 @@ package com.fyts.exer;
 /**
  * *
  * @author bky
+ * 
+ * 线程练习
  *
  * 2016年11月22日上午10:52:51
  */
